@@ -15,6 +15,15 @@ A platform where crypto users could deposit their cryptocurrencies to generate y
 ### Donors
 
 - Stake cryptocurrencies to generate yield for charity.
+
+```
+User selects cryptocurrency to deposit
+User enters amount of cryptocurrency to deposit
+User clicks deposit button
+User signs metamask transaction
+User sees how much capital is deposited & how much yield was generated so far
+```
+
 - Claim NFTs based on yield milestones.
 - Unstake cryptocurrencies whenever
 - Claim yield from AAVE's borrowing/lending protocol on behalf of GAAVE
