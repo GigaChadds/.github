@@ -8,7 +8,7 @@ There is not enough philanthropy in the world due to the lack of engagement towa
 
 A platform where crypto users could deposit their cryptocurrencies to generate yield for a cause. To further drive engagement, soulbound NFTs would be available for claim whenever a user reaches certain milestone when generating yield for a cause.
 
-![claimable-nfts.drawio.svg](./assets/claimable-nfts.drawio.svg)
+![claimable-nfts.drawio.svg](https://raw.githubusercontent.com/GigaChadds/.github/main/profile/assets/claimable-nfts.drawio.svg)
 
 ## Core Features
 
